@@ -1,0 +1,1 @@
+app_image = "138383657644.dkr.ecr.us-east-1.amazonaws.com/strapi-ecr:latest"
